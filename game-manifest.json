@@ -1,0 +1,31 @@
+
+{
+  "product": "Rec-Repainted",
+  "version": "1.0.0",
+  "releaseTag": "v1.0.0",
+  "releaseName": "Rec-Repainted 1.0.0",
+  "minimumLauncherVersion": "1.0.0",
+  "packages": [
+    {
+      "name": "Game-Part-1.zip",
+      "url": "https://github.com/neutrinoproton/Rec-Repainted-Launcher/releases/download/v1.0.0/Game-Part-1.zip",
+      "sha256": ""
+    },
+    {
+      "name": "Game-Part-2.zip",
+      "url": "https://github.com/neutrinoproton/Rec-Repainted-Launcher/releases/download/v1.0.0/Game-Part-2.zip",
+      "sha256": ""
+    },
+    {
+      "name": "Game-Part-3.zip",
+      "url": "https://github.com/neutrinoproton/Rec-Repainted-Launcher/releases/download/v1.0.0/Game-Part-3.zip",
+      "sha256": ""
+    },
+    {
+      "name": "Game-Part-4.zip",
+      "url": "https://github.com/neutrinoproton/Rec-Repainted-Launcher/releases/download/v1.0.0/Game-Part-4.zip",
+      "sha256": ""
+    }
+  ],
+  "changelog": "Initial Rec-Repainted release."
+}
