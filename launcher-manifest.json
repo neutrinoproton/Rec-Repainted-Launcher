@@ -1,15 +1,15 @@
 
 {
   "product": "Rec-Repainted Launcher",
-  "version": "1.0.2",
-  "releaseTag": "v1.0.2",
-  "releaseName": "Rec-Repainted Launcher 1.0.2",
-  "changelog": "Launcher update testing and stability improvements.",
+  "version": "1.0.3",
+  "releaseTag": "v1.0.3",
+  "releaseName": "Rec-Repainted Launcher 1.0.3",
+  "changelog": "Improved launcher update reliability and added backup and rollback protection.",
   "packages": [
     {
-      "file": "RecRepaintedLauncher-1.0.2.zip",
-      "url": "https://github.com/neutrinoproton/Rec-Repainted-Launcher/releases/download/v1.0.2/RecRepaintedLauncher-1.0.2.zip",
-      "sha256": "B03ADB059C28FA97C6CDADE0F56239ED855E8BDB006B4A7146AEAEBFAD443D39"
+      "file": "RecRepaintedLauncher-1.0.3.zip",
+      "url": "https://github.com/neutrinoproton/Rec-Repainted-Launcher/releases/download/v1.0.3/RecRepaintedLauncher-1.0.3.zip",
+      "sha256": "4F105A80976E5E6B2B88FDDFD4519C2D417A5C37A5D8CCC5B3BBA0864A801585"
     }
   ]
 }
